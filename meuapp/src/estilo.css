@@ -7,8 +7,8 @@
 }
 
 .img{
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     margin-top: 50px;
 }
 
@@ -16,4 +16,12 @@
     font-style: italic;
     color: #dd7b22;
     text-align: center;
+}
+
+.botao {
+    margin-top: 30px;
+    color: aliceblue;
+    background-color: black;
+    height:200px;
+    width: 200px;
 }
