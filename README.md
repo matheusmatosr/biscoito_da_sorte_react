@@ -6,7 +6,7 @@
 
 1. Clone este repositório
 ```bash
-git clone https://github.com/matheusmatosr/loja.git
+git clone https://github.com/matheusmatosr/biscoito_da_sorte.git
 ```
 
 Abra o terminal e faça os seguintes códigos:
