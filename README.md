@@ -6,7 +6,7 @@
 
 1. Clone este repositório
 ```bash
-git clone https://github.com/matheusmatosr/biscoito_da_sorte.git
+git clone https://github.com/matheusmatosr/biscoito_da_sorte_react.git
 ```
 
 Abra o terminal e faça os seguintes códigos:
