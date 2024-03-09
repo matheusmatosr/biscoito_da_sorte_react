@@ -17,13 +17,13 @@ Abra o terminal e faça os seguintes códigos:
 cd meuapp
 ```
   
-2. Para instalar as dependências
+3. Para instalar as dependências
 
 ```bash
 npm install
 ```
 
-3. Para rodar o projeto:
+4. Para rodar o projeto:
 
 ```bash
 npm run start
